@@ -1,0 +1,8 @@
+Available update count: 7
+Microsoft Visual Studio 2010 Service Pack 1
+Skype for Windows desktop 7.3 (KB2876229)
+Intel Corporation - Graphics Adapter WDDM1.0, Graphics Adapter WDDM1.1, Graphics Adapter WDDM1.2, Graphics Adapter WDDM1.3 - Intel(R) HD Graphics 4000
+HP - Monitor, Other hardware - HP ProDisplay P221 LED Backlit Monitor
+Windows Malicious Software Removal Tool x64 - September 2017 (KB890830)
+2017-09 Security Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4038777)
+2017-09 Preview of Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4038803)
